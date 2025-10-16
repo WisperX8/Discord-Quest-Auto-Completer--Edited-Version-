@@ -19,6 +19,9 @@ This does **not** work for browser-based quests that require you to "play" a gam
 8. Track progress via **Console prints** or the progress bars in the Quests tab.
 
 ---
+**Disclaimer:**  
+- This script is based on the original work by [aamiaa](https://gist.github.com/aamiaa/204cd9d42013ded9faf646fae7f89fbb) and has been edited for personal use and to automatically complete multiple quests in one run.  
+- Use at your own risk; may violate Discord's Terms of Service.  
 
 <details>
 <summary>Click to expand for script</summary>
